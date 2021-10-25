@@ -1,0 +1,107 @@
+,Form,Target_cell,Destination_class,Number_of_proportions,Probability_score,Attested
+0,Xo,3sg,strong aorist,2,0.17314089381340614,0
+1,Xa:si,3pl,weak aorist,5,0.9264216771453425,1
+2,X,1sg,root aorist,7,0.4751268081018126,0
+3,Xse,3sg,root aorist,1,0.04487850378346481,0
+4,Xka:si,3pl,kappatic aorist,3,0.8776604157579843,1
+5,Xsa,1sg,kappatic aorist,1,0.05884732525060754,1
+6,Xasan,3pl,perfect,5,0.7927490748460815,0
+7,Xsan,1sg,root aorist,1,0.05884732525060754,0
+8,Xnte,2pl,root aorist,2,0.7921013403101105,0
+9,Xken,1sg,kappatic aorist,1,0.20615960525419263,0
+10,Xate,2pl,strong aorist,2,0.8373598777152076,1
+11,Xoke,3sg,strong aorist,1,0.04301347062149974,0
+12,Xkan,1sg,kappatic aorist,1,0.13021252180737442,0
+13,Xsate,2pl,root aorist,1,0.26266982421985485,0
+14,Xosan,3pl,strong aorist,3,0.7093128671322776,1
+15,Xen,1sg,weak aorist,1,0.20615960525419263,0
+16,Xon,1sg,weak aorist,1,0.20615960525419263,0
+17,Xaka,1sg,weak aorist,2,0.10688482381642272,0
+18,X,3sg,kappatic aorist,4,0.15888428304620017,0
+19,Xomen,1pl,weak aorist,1,0.5783077173905037,0
+20,Xan,1sg,weak aorist,5,0.3101541999037002,0
+21,Xoman,1pl,perfect,2,0.5698290454336276,0
+22,Xe:si,3pl,strong aorist,2,0.5527915410369963,0
+23,Xsas,2sg,root aorist,1,0.0889593079489327,0
+24,Xemen,1pl,strong aorist,8,0.9741448026877457,0
+25,Xs,2sg,kappatic aorist,8,0.5030196088742405,0
+26,Xos,2sg,strong aorist,5,0.47482089734797894,0
+27,X:si,3pl,root aorist,3,0.6554013324387895,0
+28,Xakas,2sg,weak aorist,2,0.15956321207361757,0
+29,Xes,2sg,weak aorist,2,0.4938258881324863,1
+30,Xen,3pl,strong aorist,2,0.5527915410369963,0
+31,Xkomen,1pl,kappatic aorist,1,0.5783077173905037,0
+32,Xote,2pl,strong aorist,6,0.8959684931306877,0
+33,Xkate,2pl,kappatic aorist,8,0.9971316702042125,1
+34,Xa,3sg,weak aorist,5,0.28846371305998664,0
+35,X,2sg,weak aorist,1,0.0889593079489327,0
+36,Xeke,3sg,strong aorist,1,0.04071942118953831,0
+37,Xe,1sg,strong aorist,5,0.4104620803435144,0
+38,Xas,2sg,strong aorist,3,0.6398778002653919,1
+39,Xsamen,1pl,kappatic aorist,2,0.43483561706140716,1
+40,Xesan,3pl,weak aorist,1,0.5638683038029183,0
+41,Xokas,2sg,strong aorist,1,0.08542623586041631,0
+42,Xan,3pl,perfect,6,0.9433038630890453,1
+43,Xake,3sg,weak aorist,2,0.08198140818397737,0
+44,Xen,1sg,perfect,1,0.20615960525419263,0
+45,Xka,1sg,root aorist,3,0.15944226307555132,0
+46,Xon,1sg,perfect,1,0.20615960525419263,0
+47,Xkasan,3pl,kappatic aorist,1,0.42703154836693147,0
+48,Xemen,1pl,weak aorist,1,0.5783077173905037,0
+49,Xaka,1sg,perfect,2,0.10688482381642272,0
+50,Xoka,1sg,strong aorist,1,0.0564360853829301,0
+51,Xomen,1pl,perfect,1,0.5783077173905037,0
+52,Xsate,2pl,kappatic aorist,1,0.26266982421985485,1
+53,Xn,3pl,root aorist,5,0.870002255269852,0
+54,Xon,3pl,weak aorist,1,0.5638683038029183,0
+55,Xamen,1pl,strong aorist,2,0.8221756187875927,1
+56,Xka,3sg,kappatic aorist,2,0.19202127686334491,0
+57,Xakas,2sg,perfect,2,0.15956321207361757,0
+58,Xsas,2sg,kappatic aorist,1,0.0889593079489327,1
+59,Xkesan,3pl,kappatic aorist,1,0.5638683038029183,0
+60,Xes,2sg,perfect,2,0.4938258881324863,0
+61,Xa:si,3pl,strong aorist,1,0.5638683038029183,1
+62,Xkon,1sg,kappatic aorist,1,0.20615960525419263,0
+63,Xa,3sg,perfect,5,0.28846371305998664,0
+64,Xete,2pl,weak aorist,2,0.8373598777152076,1
+65,Xmeka,1pl,kappatic aorist,1,0.5251443965459364,0
+66,Xesan,3pl,perfect,1,0.5638683038029183,0
+67,X,1sg,kappatic aorist,4,0.20234528207057778,0
+68,Xka,2sg,weak aorist,1,0.0889593079489327,0
+69,Xsaka,3pl,kappatic aorist,1,0.5104256680813001,0
+70,Xse,3sg,kappatic aorist,1,0.04487850378346481,1
+71,Xka,3pl,kappatic aorist,1,0.5104256680813001,0
+72,Xsan,1sg,kappatic aorist,1,0.05884732525060754,0
+73,Xkamen,1pl,kappatic aorist,7,0.9930152506057829,1
+74,Xa:si,1sg,perfect,1,0.05884732525060754,0
+75,Xa,3pl,weak aorist,1,0.5104256680813001,0
+76,Xemen,1pl,perfect,1,0.5783077173905037,0
+77,Xan,1sg,perfect,4,0.2670203054143261,0
+78,Xkan,3pl,kappatic aorist,3,0.8776604157579843,1
+79,Xekas,2sg,strong aorist,1,0.08106177885274035,0
+80,Xsa,1sg,root aorist,1,0.05884732525060754,0
+81,Xkete,2pl,kappatic aorist,2,0.8373598777152076,0
+82,Xon,3pl,perfect,1,0.5638683038029183,0
+83,Xo,1sg,strong aorist,3,0.16207966953666353,0
+84,Xkas,2sg,root aorist,3,0.2343278871023725,0
+85,Xkemen,1pl,kappatic aorist,1,0.5783077173905037,0
+86,Xo:si,3pl,strong aorist,1,0.22944510405667828,0
+87,Xasan,3pl,weak aorist,5,0.7927490748460815,1
+88,Xonte,2pl,strong aorist,2,0.7921013403101105,0
+89,Xn,3pl,kappatic aorist,3,0.5365675201348017,0
+90,Xa,1sg,strong aorist,3,0.4997356180194822,1
+91,X:si,3pl,kappatic aorist,2,0.39857305131017406,0
+92,Xesan,3pl,strong aorist,4,0.8477676470656565,0
+93,Xan,3pl,strong aorist,1,0.5638683038029183,1
+94,Xete,2pl,perfect,2,0.8373598777152076,0
+95,Xke,3sg,root aorist,3,0.12318070903008382,0
+96,Xoman,1pl,weak aorist,2,0.5698290454336276,0
+97,Xen,1sg,strong aorist,3,0.3464444740714575,0
+98,Xake,3sg,perfect,2,0.08198140818397737,0
+99,Xn,1sg,kappatic aorist,4,0.20688005128590203,0
+100,Xkon,3pl,kappatic aorist,1,0.5638683038029183,0
+101,Xkes,2sg,kappatic aorist,2,0.4938258881324863,1
+102,Xa,3pl,perfect,1,0.5104256680813001,0
+103,Xame:si,1pl,perfect,1,0.24822584312933926,0
+104,Xeka,1sg,strong aorist,1,0.053466159156760895,0
+105,Xsamen,1pl,root aorist,2,0.43483561706140716,0
